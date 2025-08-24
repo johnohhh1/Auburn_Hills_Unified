@@ -157,7 +157,7 @@ REACT_APP_SUPABASE_ANON_KEY=your_supabase_anon_key
 ## 🏢 **Multi-Restaurant Ready**
 
 Built for scale from day one:
-- **Woods Area** - Auburn Hills, Troy, Novi
+- **Woods Area** - Auburn Hills, O-Mall, Shelby Creek, Fort Gratiot, Rochester Hills, Warren, and Gratiot Ave
 - **Peters Area** - Multiple Michigan locations  
 - **Ruddock Area** - Southfield and surrounding markets
 
@@ -216,6 +216,7 @@ Auburn Hills Chili's (#605)
 
 - **My Amazing Team** at Chili's Auburn Hills - You inspire better tools every day
 - **Chili's Culture** - The foundation that makes operational excellence possible
+- **Allen Woods** & **Cara Liebman** - Who Stay Pushing US to Grow
 - **The Restaurant Industry** - Where every day brings new challenges and opportunities to grow
 
 ---
